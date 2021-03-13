@@ -1,0 +1,80 @@
+Operador: or (ou)
+  - A or B
+
+Você prefere sorvete (A) ou chocolate (B)?
+  - Euclea: Sorvete
+  - Vinicius: Os dois
+  - Erika: Os dois
+  - Jordana: Chocolate
+  - ET: Nenhum dos dois
+
+Joaquim vende sorvete (A) ou chocolate (B).
+A	B	A or B
+v	v	v
+v	f	v
+f	v	v
+f	f	f
+
+
+Sábado é dia de praia (A) ou dia de shopping (B).
+A	B	A or B
+v	v	v
+v	f	v
+f       v       v
+f	f	f
+
+
+Operador: and (e)
+
+Joaquim vende sorvete (A) e chocolate (B).
+A	B	A e B
+v	v	v
+v	f	f
+f	v	f
+f	f	f
+
+Sábado é dia de praia (A) e dia de shopping (B).
+A	B	A e B
+v	v	v
+v	f	f
+f	v	f
+f	f	f
+
+O posto vende alcool (A) e gasolina(B).
+A	B	A e B
+v	v	v
+v	f	f
+f	v	f
+f	f	f
+
+
+A farmácia vende gasolina e remédio.
+A	B	A e B
+f	v	f
+
+A farmácia vende cerveja e pão.
+A	B	A e B
+f	f	f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
