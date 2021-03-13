@@ -16,7 +16,7 @@
 
 O operador lógico `AND` remete a certezas. *Se uma das sentenças estiver falsa a operação será falsa*. A operação só sera verdadeira se todas as sentenças forem verdadeiras.
 
-## Operado `OR` (ou)
+## Operador `OR` (ou)
 
 | A | B | A OR B |
 |:-:|:-:|  :-:   |
