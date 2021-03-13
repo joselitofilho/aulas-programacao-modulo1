@@ -14,3 +14,9 @@ Repositório contendo todo o material do primeiro modulo das aulas de lógica de
 - Operadores lógicos AND(e) e OR(ou).
 - Tabela verdade do operador lógico AND.
 - Tabela verdade do operador lógico OR.
+
+## [Aula 2](aula2/)
+
+- Operador lógico NOT(negação).
+- Utilização do operador lógico NOT com os operadores AND e OR.
+- Cláusula condicional IF.

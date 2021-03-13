@@ -1,0 +1,68 @@
+NOT
+!
+!=
+
+
+A	NOT A
+v	f
+f	v
+
+NOT NOT A = A
+
+A = verdadeiro
+NOT A = falso
+NOT (NOT A) = verdadeiro
+
+
+A	B	A AND B
+v 	v 	v
+v 	f 	f
+f   v   f
+f   f   f
+
+
+A 	B 	NOT B	A AND (NOT B)
+v   v   f       f
+v   f   v       v
+f   v   f       f
+f   f   v       f
+
+
+A 	B 	NOT A	(NOT A) AND B
+v   v   f       f
+v   f   f       f
+f   v   v       v
+f   f   v       f
+
+
+A 	B 	NOT A   NOT B	(NOT A) AND (NOT B)
+v   v   f       f       f
+v   f   f       v       f
+f   v   v       f       f
+f   f   v       v       v
+
+
+A	B	A OR B
+v   v   v
+v   f   v
+f   v   v
+f   f   f
+
+A	B 	NOT A	(NOT A) OR B
+v   v   f  	    v
+v   f   f       f
+f   v   v       v
+f   f   v       v
+
+A	B 	NOT B	A OR (NOT B)
+v   v   f       v
+v   f   v       v
+f   v   f       f
+f   f   v       v
+
+
+A 	B 	NOT A   NOT B	(NOT A) OR (NOT B)
+v   v   f       f       f
+v   f   f       v       v
+f   v   v       f       v
+f   f   v       v       v
