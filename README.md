@@ -32,6 +32,17 @@ Repositório contendo todo o material do primeiro modulo das aulas de lógica de
 - Cláusula condicional `IF` e `ELSE`.
 - Valor padrão para uma variável.
 
+## Aula 4
+[aula4/](aula4/)
+
+- Revisão.
+- Cláusula condicional `ELIF`.
+- Método chinês para debuparação manual do código.
+
 ## Tabela verdade dos operadores
 
 Confira um resumo da tabela verdade dos operadores `AND`, `OR`, `NOT` e muito mais clicando [aqui](tabela_verdade_operadores.md)
+
+## Tipagem das variáveis
+
+![](imagens/tipos.png)
