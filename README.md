@@ -46,3 +46,12 @@ Confira um resumo da tabela verdade dos operadores `AND`, `OR`, `NOT` e muito ma
 ## Tipagem das variáveis
 
 ![](imagens/tipos.png)
+
+Valores padrões dos tipos:
+
+```Python
+   bool: False
+integer: 0
+ double: 0.0
+ string: "" ou ''
+```
