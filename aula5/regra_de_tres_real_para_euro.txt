@@ -1,0 +1,7 @@
+# Regra de três
+
+1 real ------- 6.70 euros
+
+   x   ------- 30 reais
+
+x = 30 / 6.70
