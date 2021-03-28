@@ -67,7 +67,7 @@ Confira um resumo da tabela verdade dos operadores `AND`, `OR`, `NOT` e muito ma
 
 -    bool: Corresponde aos valores 'verdadeiro' ou 'falso', 'sim' ou 'não'.
 - integer: Corresponde ao conjunto dos números inteiros.
--  double: Corresponde ao conjunto dos números reais.
+-    real: Corresponde ao conjunto dos números reais.
 -  string: Corresponde a um ou mais caracteres, podendo ser letras, números ou símbolos.
 
 Representação dos tipos no Python:
@@ -75,7 +75,7 @@ Representação dos tipos no Python:
 ```Python
     bool: bool
  inteiro: int
-  double: float
+    real: float
   string: str
 ```
 
