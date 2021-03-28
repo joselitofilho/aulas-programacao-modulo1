@@ -1,0 +1,7 @@
+expressao = (not A) or B
+
+A é igual a F
+B é igual a F
+(not A) é igual a V
+expressao é igual a (V or F) = V
+Então o programa irá retornar a string "O resultado de A AND B = True"

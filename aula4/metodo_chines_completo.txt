@@ -1,0 +1,39 @@
+
+
+linha 3: o sistema vai imprimir em tela o texto "Digite o valor de A"
+linha 4: o sistema vai espera que o usuário digite um valor para a variável texto_de_a_digitado
+linha 5: estamos definindo que o valor padrão da variável A é igual a False
+linha 6: Verifica se a variável texto_de_a_digitado é igual a "True"
+	- Resultado: Não é igual ao texto "True"
+	- Pula linha 7
+linha 8: Verifica se a variável texto_de_a_digitado é igual a "Verdadeiro"
+	- Resultado: Não é igual ao texto "Verdadeiro"
+	- Pula linha 9
+linha 10: Verifica se a variável texto_de_a_digitado é igual a "V"
+	- Resultado: é igual
+	- Executa a linha 11
+linha 11: A variável A recebe o valor booleano True
+
+linha 13: o sistema vai imprimir em tela o texto "Digite o valor de B"
+linha 14: o sistema vai espera que o usuário digite um valor para a variável texto_de_b_digitado
+linha 15: estamos definindo que o valor padrão da variável B é igual a False
+linha 16: Verifica se a variável texto_de_b_digitado é igual a "True"
+	- Resultado: Não é igual ao texto "True"
+	- Pula linha 16
+linha 18: Verifica se a variável texto_de_b_digitado é igual a "Verdadeiro"
+	- Resultado: Não é igual ao texto "Verdadeiro"
+	- Pula linha 19
+linha 20: Verifica se a variável texto_de_b_digitado é igual a "V"
+	- Resultado: Não é igual ao texto "V"
+	- Pula linha 21
+
+A é igual a True
+B é igual a False
+
+expressao = (not A) or B
+
+(not A) é igual a False
+
+linha 23: expressao é igual a False
+
+linha 24: o sistema vai imprimir em tela o texto "O resultado de (not A) or B = False"

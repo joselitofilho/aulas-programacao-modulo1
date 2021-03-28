@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 print("Digite o valor de A:")
 texto_de_a_digitado = input()
 A = False # O valor padrão de A será False.
@@ -18,5 +20,5 @@ elif texto_de_b_digitado == "Verdadeiro":
 elif texto_de_b_digitado == "V":
 	B = True
 
-expressao = (not A) and (not B)
-print("O resultado de A AND B =", expressao)
+expressao = (not A) or B
+print("O resultado de (not A) or B =", expressao)

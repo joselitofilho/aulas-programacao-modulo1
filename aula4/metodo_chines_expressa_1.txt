@@ -1,0 +1,7 @@
+expressao = (not A) and (not B)
+
+A é igual a F
+B é igual a V
+(not A) é igual a V
+(not B) é igual a F
+expressao é igual a (Verdadeiro and Falso) = False
