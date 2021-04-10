@@ -47,6 +47,12 @@ Repositório contendo todo o material do primeiro modulo das aulas de lógica de
 - Cast: conversão de uma `string` em um `float`.
 - Implementação do primeiro programa. Conversor simples de moedas (Real R$, Dólar U$ e Euro €).
 
+## Aula 6
+[aula6/](aula6/)
+
+- Como o python interpreta o código.
+- Exercícios utilizando a plataforma (URI Online Judge)[https://www.urionlinejudge.com.br/]
+
 ## Glossário
 
 | Termo         | Definição |
@@ -87,3 +93,7 @@ Valores padrões dos tipos:
 float: 0.0
   str: "" ou ''
 ```
+
+## Como o python interpreta o código
+
+![](imagens/como_o_python_interpreta_o_codigo.png)
