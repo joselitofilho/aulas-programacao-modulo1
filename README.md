@@ -51,7 +51,7 @@ Repositório contendo todo o material do primeiro modulo das aulas de lógica de
 [aula6/](aula6/)
 
 - Como o python interpreta o código.
-- Exercícios utilizando a plataforma (URI Online Judge)[https://www.urionlinejudge.com.br/]
+- Exercícios utilizando a plataforma [URI Online Judge](https://www.urionlinejudge.com.br/)
 
 ## Glossário
 
